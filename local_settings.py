@@ -5,3 +5,4 @@ DATABASE = {
     'host': '',
     'port': 5432,
 }
+
